@@ -1,0 +1,88 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52 Îu[mnoj tw/n triw/n pai,dwnÐ euvloghto.j ei= ku,rie o` qeo.j tw/n pate,rwn h`mw/n kai. aivneto.j kai. u`peruyou,menoj eivj tou.j aivw/naj kai. euvloghme,non to. o;noma th/j do,xhj sou to. a[gion kai. u`peraineto.n kai. u`peruyou,menon eivj tou.j aivw/naj
+53 euvloghme,noj ei= evn tw/| naw/| th/j a`gi,aj do,xhj sou kai. u`perumnhto.j kai. u`pere,ndoxoj eivj tou.j aivw/naj
+54 euvloghme,noj ei= o` ble,pwn avbu,ssouj kaqh,menoj evpi. ceroubin kai. u`peraineto.j kai. u`peruyou,menoj eivj tou.j aivw/naj
+55 euvloghme,noj ei= evpi. qro,nou th/j basilei,aj sou kai. u`perumnhto.j kai. u`peruyou,menoj eivj tou.j aivw/naj
+56 euvloghme,noj ei= evn tw/| sterew,mati tou/ ouvranou/ kai. u`perumnhto.j kai. u`pere,ndoxoj eivj tou.j aivw/naj
+57 euvlogei/te pa,nta ta. e;rga kuri,ou to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+58 euvlogei/te a;ggeloi kuri,ou to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+59 euvlogei/te ouvranoi, to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+60 euvlogei/te u[data pa,nta ta. u`pera,nw tw/n ouvranw/n to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+61 euvlogei/te pa/sai ai` duna,meij kuri,ou to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+62 euvlogei/te h[lioj kai. selh,nh to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+63 euvlogei/te a;stra tou/ ouvranou/ to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+64 euvlogei/te pa/j o;mbroj kai. dro,soj to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+65 euvlogei/te pa,nta ta. pneu,mata to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+66 euvlogei/te pu/r kai. kau/ma to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+67 euvlogei/te yu/coj kai. kau,swn to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+68 euvlogei/te dro,soi kai. nifetoi, to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+69 euvlogei/te pa,goj kai. yu/coj to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+70 euvlogei/te pa,cnai kai. cio,nej to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+71 euvlogei/te nu,ktej kai. h`me,rai to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+72 euvlogei/te fw/j kai. sko,toj to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+73 euvlogei/te avstrapai. kai. nefe,lai to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+74 euvlogei,tw h` gh/ to.n ku,rion u`mnei,tw kai. u`peruyou,tw auvto.n eivj tou.j aivw/naj
+75 euvlogei/te o;rh kai. bounoi, to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+76 euvlogei/te pa,nta ta. fuo,mena evn th/| gh/| to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+77 euvlogei/te ai` phgai, to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+78 euvlogei/te qa,lassai kai. potamoi, to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+79 euvlogei/te kh,th kai. pa,nta ta. kinou,mena evn toi/j u[dasin to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+80 euvlogei/te pa,nta ta. peteina. tou/ ouvranou/ to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+81 euvlogei/te ta. qhri,a kai. pa,nta ta. kth,nh to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+82 euvlogei/te ui`oi. tw/n avnqrw,pwn to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+83 euvlogei,tw Israhl to.n ku,rion u`mnei,tw kai. u`peruyou,tw auvto.n eivj tou.j aivw/naj
+84 euvlogei/te i`erei/j kuri,ou to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+85 euvlogei/te dou/loi kuri,ou to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+86 euvlogei/te pneu,mata kai. yucai. dikai,wn to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+87 euvlogei/te o[sioi kai. tapeinoi. th/| kardi,a| to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
+88 euvlogei/te Anania Azaria Misahl to.n ku,rion u`mnei/te kai. u`peruyou/te auvto.n eivj tou.j aivw/naj
