@@ -1,0 +1,54 @@
+1 w rbd hwhy la, hv,mo B rB'd>mi yn:ysi B lh,ao d[eAm B dx'a, l h; vd,xo h; ynIve B h; hn"v' h; ynIve l acy !mi #r,a, ~yIr;c.mi l rma
+2 afn tae varo lKo hd'[e !Be laer'f.yI l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve lKo rk'z" l tl,GOl.GU
+3 !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c' B laer'f.yI dqp tae l ab'c' hT'a; w !roh]a;
+4 w tae hyh vyai vyai l h; hJ,m; vyai varo l tyIB; ba' aWh
+5 w hL,ae ~ve h; vyai rv,a] dm[ tae l !beWar> rWcylia/ !Be rWaydev.
+6 l !A[m.vi laeymiluv. !Be yD'v;yrIWc
+7 l hd'Why> !Avx.n: !Be bd'n"yMi[;
+8 l rk'XF'yI laen>t;n> !Be r['Wc
+9 l !WlWbz> ba'ylia/ !Be !l{xe
+10 l !Be @seAy l ~yIr;p.a, [m'v'ylia/ !Be dWhyMi[; l hV,n:m. laeylim.G: !Be rWchd'P.
+11 l !miy"n>Bi !d'ybia] !Be ynI[od>GI
+12 l !D' rz<[,yxia] !Be yD'v;yMi[;
+13 l rvea' laey[ig>P; !Be !r'k.['
+14 l dG" @s'y"l.a, !Be laeW[D>
+15 l yliT'p.n: [r;yxia] !Be !n"y[e
+16 hL,ae ayrIq' arq h; hd'[e ayfin" hJ,m; ba' varo @l,a, laer'f.yI ~he
+17 w xql hv,mo w !roh]a; tae h; vyai h; hL,ae rv,a] bqn B ~ve
+18 w tae lKo h; hd'[e lhq B dx'a, l h; vd,xo h; ynIve w dly l[; hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; l tl,GOl.GU
+19 K rv,a] hwc hwhy tae hv,mo w dqp B rB'd>mi yn:ysi {P}
+20 w hyh !Be !beWar> rAkB. laer'f.yI tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve l tl,GOl.GU lKo rk'z" !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+21 dqp l hJ,m; !beWar> vve w ~y[iB'r>a; @l,a, w vmex' ha'me {P}
+22 l !Be !A[m.vi tAdleAT l hx'P'v.mi l tyIB; ba' dqp B rP's.mi ~ve l tl,GOl.GU lKo rk'z" !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+23 dqp l hJ,m; !A[m.vi [v;Te w ~yVimix] @l,a, w vl{v' ha'me {P}
+24 l !Be dG" tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+25 dqp l hJ,m; dG" hV'mix] w ~y[iB'r>a; @l,a, w vve ha'me w ~yVimix] {P}
+26 l !Be hd'Why> tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+27 dqp l hJ,m; hd'Why> h['B'r>a; w ~y[ib.vi @l,a, w vve ha'me {P}
+28 l !Be rk'XF'yI tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+29 dqp l hJ,m; rk'XF'yI h['B'r>a; w ~yVimix] @l,a, w [B;r>a; ha'me {P}
+30 l !Be !WlWbz> tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+31 dqp l hJ,m; !WlWbz> [b;v, w ~yVimix] @l,a, w [B;r>a; ha'me {P}
+32 l !Be @seAy l !Be ~yIr;p.a, tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+33 dqp l hJ,m; ~yIr;p.a, ~y[iB'r>a; @l,a, w vmex' ha'me {P}
+34 l !Be hV,n:m. tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+35 dqp l hJ,m; hV,n:m. ~yIn:v. w ~yvil{v. @l,a, w ha'me {P}
+36 l !Be !miy"n>Bi tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+37 dqp l hJ,m; !miy"n>Bi hV'mix] w ~yvil{v. @l,a, w [B;r>a; ha'me {P}
+38 l !Be !D' tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+39 dqp l hJ,m; !D' ~yIn:v. w ~yVivi @l,a, w [b;v, ha'me {P}
+40 l !Be rvea' tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+41 dqp l hJ,m; rvea' dx'a, w ~y[iB'r>a; @l,a, w vmex' ha'me {P}
+42 !Be yliT'p.n: tAdleAT l hx'P'v.mi l tyIB; ba' B rP's.mi ~ve !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c'
+43 dqp l hJ,m; yliT'p.n: vl{v' w ~yVimix] @l,a, w [B;r>a; ha'me {P}
+44 hL,ae h; dqp rv,a] dqp hv,mo w !roh]a; w ayfin" laer'f.yI ~yIn:v. rf'[' vyai vyai dx'a, l tyIB; ba' hyh
+45 w hyh lKo dqp !Be laer'f.yI l tyIB; ba' !mi !Be ~yrIf.[, hn"v' w l[;m; lKo acy ab'c' B laer'f.yI
+46 w hyh lKo h; dqp vve ha'me @l,a, w vl{v' @l,a, w vmex' ha'me w ~yVimix]
+47 w h; ywIle l hJ,m; ba' al{ dqp B %w<T' {P}
+48 w rbd hwhy la, hv,mo l rma
+49 %a; tae hJ,m; ywIle al{ dqp w tae varo al{ afn B %w<T' !Be laer'f.yI
+50 w hT'a; dqp tae h; ywIle l[; !K'v.mi h; tWd[e w l[; lKo yliK. w l[; lKo rv,a] l ~he afn tae h; !K'v.mi w tae lKo yliK. w ~he trv w bybis' l h; !K'v.mi hnx
+51 w B [sn h; !K'v.mi dry tae h; ywIle w B hnx h; !K'v.mi ~wq tae h; ywIle w h; rz" h; breq' twm
+52 w hnx !Be laer'f.yI vyai l[; hn<x]m; w vyai l[; lg<D, l ab'c'
+53 w h; ywIle hnx bybis' l !K'v.mi h; tWd[e w al{ hyh @c,q, l[; hd'[e !Be laer'f.yI w rmv h; ywIle tae tr,m,v.mi !K'v.mi h; tWd[e
+54 w hf[ !Be laer'f.yI K lKo rv,a] hwc hwhy tae hv,mo !Ke hf[ {P}

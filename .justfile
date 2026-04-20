@@ -10,6 +10,9 @@ split-esv:
 split-bgt:
   python scripts/split_bible_sources.py bgt
 
+split-wtm:
+  python scripts/split_bible_sources.py wtm
+
 rebuild:
   python scripts/split_bible_sources.py --clean
 

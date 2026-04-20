@@ -42,6 +42,24 @@ SOURCE_CONFIGS = {
         output_path=Path("sources/bgt"),
         encodings=("cp1252", "latin-1"),
     ),
+    "wtm": SourceConfig(
+        name="wtm",
+        input_path=Path("sources/wtm.txt"),
+        output_path=Path("sources/wtm"),
+        encodings=("utf-8", "utf-8-sig"),
+    ),
+    "wtm_utf8": SourceConfig(
+        name="wtm_utf8",
+        input_path=Path("sources/wtm_utf8.txt"),
+        output_path=Path("sources/wtm_utf8"),
+        encodings=("utf-8", "utf-8-sig"),
+    ),
+    "wtm_plain": SourceConfig(
+        name="wtm_plain",
+        input_path=Path("sources/wtm_plain.txt"),
+        output_path=Path("sources/wtm_plain"),
+        encodings=("utf-8", "utf-8-sig"),
+    ),
 }
 
 
