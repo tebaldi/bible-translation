@@ -15,7 +15,7 @@ from deep_translator import GoogleTranslator
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ESV_DIR = REPO_ROOT / "sources" / "esv" / "01_GEN"
 BGT_DIR = REPO_ROOT / "sources" / "bgt" / "01_GEN"
-OUTPUT_DIR = REPO_ROOT / "translations" / "bho" / "01_GEN"
+OUTPUT_DIR = REPO_ROOT / "text" / "bho" / "01_GEN"
 CACHE_PATH = REPO_ROOT / "scripts" / ".genesis_bho_mt_cache.json"
 BRENTON_URL_TEMPLATE = "https://ebible.org/englxxup/GEN{chapter:02d}.htm"
 

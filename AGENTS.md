@@ -13,7 +13,7 @@ This repository is a Bible translation workspace.
 ## Repository Structure
 
 - `sources/` contains reference material and source texts. Treat it as immutable unless explicitly asked to regenerate, correct, or replace source data.
-- `translations/` contains translation drafts and reviewed outputs. Treat it as the canonical destination for translation work.
+- `text/` contains translation drafts and reviewed outputs. Treat it as the canonical destination for translation work.
 - `scripts/download_bho_story.py` and `scripts/ocr_bho_stories.js` are source-ingestion helpers. They are not the primary output path for Bible translation deliverables.
 
 ## Translation Workflow
@@ -25,10 +25,10 @@ This repository is a Bible translation workspace.
 
 ## Output Format
 
-- Use this path pattern for chapter outputs: `translations/{language}/{book_folder}/CHAPTER_{chapter}.from_{source}.md`
-- The current language folder is `translations/bho/`.
+- Use this path pattern for chapter outputs: `text/{language}/{book_folder}/CHAPTER_{chapter}.from_{source}.md`
+- The current language folder is `text/bho/`.
 - Use zero-padded canonical order plus a short book code for book folders, for example `01_GEN`, `02_EXO`, `03_LEV`.
-- Example output path: `translations/bho/01_GEN/CHAPTER_1.from_esv.md`
+- Example output path: `text/bho/01_GEN/CHAPTER_1.from_esv.md`
 - `from_{source}` maps to the source filename stem in `sources/`, for example `esv` from `sources/esv.txt` and `bgt` from `sources/bgt.txt`.
 - Write each chapter file as Markdown with verse-numbered lines inside the chapter file.
 - Default Bhojpuri output to Devanagari script unless explicitly instructed otherwise.

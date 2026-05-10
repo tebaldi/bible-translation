@@ -13,9 +13,9 @@ from deep_translator import GoogleTranslator
 REPO_ROOT = Path(__file__).resolve().parent.parent
 WTM_DIR = REPO_ROOT / "sources" / "wtm" / "01_GEN"
 ESV_DIR = REPO_ROOT / "sources" / "esv" / "01_GEN"
-BHO_SOURCE_DIR = REPO_ROOT / "translations" / "bho" / "01_GEN"
-BHO_OUTPUT_DIR = REPO_ROOT / "translations" / "bho" / "01_GEN"
-PT_OUTPUT_DIR = REPO_ROOT / "translations" / "ptb" / "01_GEN"
+BHO_SOURCE_DIR = REPO_ROOT / "text" / "bho" / "01_GEN"
+BHO_OUTPUT_DIR = REPO_ROOT / "text" / "bho" / "01_GEN"
+PT_OUTPUT_DIR = REPO_ROOT / "text" / "ptb" / "01_GEN"
 CACHE_PATH = REPO_ROOT / "scripts" / ".genesis_wtm_mt_cache.json"
 
 NUMBERED_LINE_PATTERN = re.compile(r"^(\d+)\s+(.*)$")

@@ -74,7 +74,7 @@ function Get-TargetDefinitions {
             book_folder         = "01_GEN"
             chapter             = 1
             source              = "wtm"
-            input_path          = Join-Path $RepoRoot "translations\bho\01_GEN\CHAPTER_1.from_wtm.md"
+            input_path          = Join-Path $RepoRoot "text\bho\01_GEN\CHAPTER_1.from_wtm.md"
             output_dir          = Join-Path $RepoRoot "audio\bho\01_GEN"
             verse_prefix        = "पद"
             engine              = "openai"
@@ -88,7 +88,7 @@ function Get-TargetDefinitions {
             book_folder         = "01_GEN"
             chapter             = 1
             source              = "wtm"
-            input_path          = Join-Path $RepoRoot "translations\ptb\01_GEN\CHAPTER_1.from_wtm.md"
+            input_path          = Join-Path $RepoRoot "text\ptb\01_GEN\CHAPTER_1.from_wtm.md"
             output_dir          = Join-Path $RepoRoot "audio\ptb\01_GEN"
             verse_prefix        = "Versículo"
             engine              = "openai"
