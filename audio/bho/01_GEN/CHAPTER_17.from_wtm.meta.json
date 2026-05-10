@@ -1,0 +1,12 @@
+{
+    "source_markdown": "/Users/fabio.tebaldi/Git/bible-translation/text/bho/01_GEN/CHAPTER_17.from_wtm.md",
+    "engine": "openai",
+    "voice": "onyx",
+    "model": "gpt-4o-mini-tts",
+    "speak_verse_numbers": true,
+    "generated_at": "2026-05-10T14:59:44.554Z",
+    "tone_profile": "male, serious, reverent, lower, fuller, subtle groove",
+    "verse_count": 27,
+    "chunk_count": 1,
+    "output_audio": "/Users/fabio.tebaldi/Git/bible-translation/audio/bho/01_GEN/CHAPTER_17.from_wtm.mp3"
+}

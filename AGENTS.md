@@ -33,6 +33,16 @@ This repository is a Bible translation workspace.
 - Write each chapter file as Markdown with verse-numbered lines inside the chapter file.
 - Default Bhojpuri output to Devanagari script unless explicitly instructed otherwise.
 
+## Audio Workflow
+
+- Generate chapter audio from the reviewed Markdown files under `text/`.
+- Use this path pattern for chapter audio outputs: `audio/{language}/{book_folder}/CHAPTER_{chapter}.from_{source}.mp3`
+- Write matching metadata beside each audio file as `audio/{language}/{book_folder}/CHAPTER_{chapter}.from_{source}.meta.json`.
+- Use the cloud/OpenAI TTS workflow for generated audio, matching the existing Genesis audio convention.
+- Do not use local, offline, browser, operating-system, Edge, or other non-OpenAI TTS engines as a fallback.
+- If the OpenAI cloud audio path cannot run because credentials, tooling, or network access are missing, stop and report the blocker instead of generating replacement audio with another engine.
+- Preserve existing cloud-generated audio unless explicitly asked to overwrite it.
+
 ## Quality Rules
 
 - Preserve chapter and verse alignment with the source chapter being translated.
