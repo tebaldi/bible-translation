@@ -1,0 +1,12 @@
+{
+    "source_markdown": "/Users/fabio.tebaldi/Git/bible-translation/text/bho/01_GEN/CHAPTER_26.from_wtm.md",
+    "engine": "openai",
+    "voice": "onyx",
+    "model": "gpt-4o-mini-tts",
+    "speak_verse_numbers": true,
+    "generated_at": "2026-05-11T01:33:17.620Z",
+    "tone_profile": "male, serious, reverent, lower, fuller, subtle groove",
+    "verse_count": 35,
+    "chunk_count": 2,
+    "output_audio": "/Users/fabio.tebaldi/Git/bible-translation/audio/bho/01_GEN/CHAPTER_26.from_wtm.mp3"
+}
